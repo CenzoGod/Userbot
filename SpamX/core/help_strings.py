@@ -6,7 +6,7 @@ if not hndlr:
   hndlr = "."
 
 help_text = f"""
-**Help menu of 🇻ιρ 🇩𝚒𝚝𝚝𝚘 🇺𝚜𝚎𝚛𝚋𝚘𝚝!**
+**Help menu of REAPER USERBOT ⚡**
 
 Functions/Modules available ⬇️
 
